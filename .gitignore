@@ -1,0 +1,28 @@
+# Unreal Engine generated files
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Visual Studio files
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Build artifacts
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.rsp
+*.sarif
+*.dep.json
+*.pch
+
+# Other
+*.log
+*.tmp
+Thumbs.db
