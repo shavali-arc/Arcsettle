@@ -1,0 +1,41 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+# Project files generated per-user/machine
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.sln.docstates
+# If you choose to not track solution files (recommended for UE projects)
+*.sln
+
+# IDEs/Editors
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build artifacts / packages
+*.pdb
+*.ipdb
+*.iobj
+*.opensdf
+*.sdf
+*.cache
+*.log
+*.obj
+
+# Xcode (if applicable on macOS)
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
